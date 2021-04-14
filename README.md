@@ -78,7 +78,8 @@ Hotel
 Booking API
 	
 URI:
-http://localhost:8087/bookHotel/{HoteId}/{userId}
+http://localhost:8087/bookHotel/{hoteId}/{userId}
+
 
 Request Headers:
 HTTP Headers:
